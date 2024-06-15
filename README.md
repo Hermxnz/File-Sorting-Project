@@ -1,0 +1,1 @@
+Simple file sorting project in python that checks if 3 files exist. if not the program will make the files. loop through all available files in the path and sort them based on if they are a text, image,or csv file
